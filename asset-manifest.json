@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/tyke/static/css/main.9c94ec73.css",
-    "main.js": "/tyke/static/js/main.194456f7.js",
+    "main.css": "/tyke/static/css/main.caf70645.css",
+    "main.js": "/tyke/static/js/main.4d6d12ee.js",
     "static/js/787.28cb0dcd.chunk.js": "/tyke/static/js/787.28cb0dcd.chunk.js",
     "static/media/sound.mp3": "/tyke/static/media/sound.619cf85f1b542f26edc5.mp3",
     "static/media/dog.jpg": "/tyke/static/media/dog.c0d2dd725ce8765c6b7b.jpg",
     "static/media/doggoface.JPG": "/tyke/static/media/doggoface.8a939849983271d9123e.JPG",
     "index.html": "/tyke/index.html",
-    "main.9c94ec73.css.map": "/tyke/static/css/main.9c94ec73.css.map",
-    "main.194456f7.js.map": "/tyke/static/js/main.194456f7.js.map",
+    "main.caf70645.css.map": "/tyke/static/css/main.caf70645.css.map",
+    "main.4d6d12ee.js.map": "/tyke/static/js/main.4d6d12ee.js.map",
     "787.28cb0dcd.chunk.js.map": "/tyke/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c94ec73.css",
-    "static/js/main.194456f7.js"
+    "static/css/main.caf70645.css",
+    "static/js/main.4d6d12ee.js"
   ]
 }
